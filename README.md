@@ -1,4 +1,4 @@
-# Decomposicao_soma_fatores7
+# Decomposicao_soma_fatores
 
 Esse programa gera a decomposição de um número inteiro positivo na soma de todos os possı́veis fatores. Por exemplo, para n = 6, temos:
 ~~~c
